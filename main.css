@@ -91,7 +91,7 @@ section {
   transform: rotateX(360deg) rotateY(0deg);
 }
 
-.wrap:hover div {
+.wrap:hover .in div {
   animation: sample 5s ease infinite;
 }
 
